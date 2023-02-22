@@ -1,3 +1,5 @@
+[Back to Index](https://github.com/AndersonRayner/uas_tools_index)
+
 # Flight Testing Documents
 
 This repository contains document templates for many flight testing cases, such as checklisting and flight logs.  They are not intended to contain a complete set of points for all flight testing, but instead to guide your own set of documents.  
@@ -16,4 +18,4 @@ This repository contains document templates for many flight testing cases, such 
 - `Maintainence Logs`
   - Examples of sheets to fill out when doing any vehicle maintainence / upgrades (both software and hardware).
 - `On-Battery Charge Tracker`
-  - An example label to attach to a battery to easily track the number of cycles a battery has been to.
+  - An example label to attach to a battery to easily track the number of cycles a battery has been through.
